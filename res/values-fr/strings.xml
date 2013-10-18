@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Expérimental</string>
+    <string name="action_settings">Réglages</string>
+    <string name="edit_message">Entrez un message</string>
+    <string name="button_send">Envoyer</string>
+    <string name="title_activity_display_message">Mon Message</string>
+    <string name="action_search">Recherche</string>
+
+</resources>
